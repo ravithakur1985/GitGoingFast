@@ -1,2 +1,2 @@
 # GitGoingFast
-Git going fast udemy class
+Git going fast udemy class scratchpad
